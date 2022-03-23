@@ -7,7 +7,7 @@ namespace bucketFill
         /// <summary>
         /// Press Run in visual studio!
         /// </summary>
-        static void Main(string[] args)
+        static void Main()
         {
             int[,] canvas = {{1, 1, 1, 1, 2, 1, 1, 1},
                             {2, 1, 1, 1, 2, 1, 1, 1},
